@@ -7,13 +7,68 @@ body{
     background-size:cover;
 }
 ul {
+    display: flex;
     list-style: none;
     flex-direction: column;
-
+    gap: 1.5rem;
+    position: absolute;
+    right: 10px;
+    top: 5px;
 }
 button {
-    width: 70px;
-    height: 70px;
+    width: 4.5rem;
+    height: 4.5rem;
     border-radius: 50%;
-    gap: 2rem;
+}
+nav {
+    position: relative;
+}
+#github {
+    background: #fff url(pacote-d013/imagens/logo-github.jpg) center center no-repeat fixed;
+    background-size:cover;
+    scale: 100%;
+}
+#facebook {
+    background: #fff url(../projeto-redes-sociais/pacote-d013/imagens/logo-facebook.jpg) center center no-repeat fixed;
+    background-size:cover;
+    scale: 100%;
+}
+#instagram {
+    background: #fff url(pacote-d013/imagens/logo-instagram.jpg) center center no-repeat fixed;
+    background-size:cover;
+    scale: 100%;
+}
+#home {
+    background: #fff url(pacote-d013/imagens/logo-home.jpg) center center no-repeat fixed;
+    background-size:cover;
+    scale: 100%;
+}
+#linkedin {
+    background: #fff url(pacote-d013/imagens/logo-linkedin.png) center center no-repeat fixed;
+    background-size:cover;
+    scale: 100%;
+}
+main{
+    position: relative;
+}
+div{
+    background: #fff url(pacote-d013/imagens/frame-iphone.png) center center no-repeat fixed;
+    background-size:cover;
+    height: 625px;
+    width: 310px;
+    position: absolute;
+    transform: translate(-50%, 25%);
+    left: 50%;
+    border-radius: 45px;
+}
+iframe{
+    display: block;
+    height: 470px;
+    width: 270px;
+    position: absolute;
+    transform: translate(-50%, 17%);
+    left: 50%;
+}
+a{
+  
 }
