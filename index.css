@@ -8,7 +8,6 @@
 }
 ::-webkit-scrollbar{
     width: 0px;
-    height: 0px;
 }
 body{
     background: #000 url(pacote-d013/imagens/fundo-madeira.jpg) bottom center no-repeat fixed;
@@ -22,7 +21,7 @@ ul {
     flex-direction: column;
     gap: 1.5rem;
     position: absolute;
-    right: 10px;
+    right: 20px;
     top: 5px;
 }
 button {
@@ -45,7 +44,7 @@ nav {
     scale: 100%;
 }
 #facebook {
-    background: #fff url(../projeto-redes-sociais/pacote-d013/imagens/logo-facebook.jpg) center center no-repeat fixed;
+    background: #fff url(pacote-d013/imagens/logo-facebook.jpg) center center no-repeat fixed;
     background-size:cover;
     scale: 100%;
 }
