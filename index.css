@@ -26,7 +26,6 @@ button {
     height: 3.3rem;
     border-radius: 50%;
     box-shadow: 2px 2px 2px rgba(66, 66, 66, 0.151);
-    border: 10px;
 }
 button:hover{
     border:2px solid rgba(255, 255, 255, 0.651);
@@ -35,6 +34,7 @@ button:hover{
 }
 nav {
     position: relative;
+    margin-left: 10px;
 }
 #github {
     background: #fff url(pacote-d013/imagens/logo-github.jpg) center center no-repeat fixed;
