@@ -7,6 +7,7 @@
     font-size: 16px;
 }
 ::-webkit-scrollbar{
+    height: 0px;
     width: 0px;
 }
 body{
@@ -72,7 +73,7 @@ div{
     height: 627px;
     width: 311px;
     position: absolute;
-    transform: translate(-50%, 25%);
+    transform: translate(-50%, 10%);
     left: 50%;
     border-radius: 45px;
 }
