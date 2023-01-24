@@ -32,9 +32,6 @@ button:hover{
     transform: translate(-3px, -3px);
     transition: 0.8s, border 1s;
 }
-nav {
-    position: relative;
-}
 #github {
     background: #fff url(pacote-d013/imagens/logo-github.jpg) center center no-repeat fixed;
     background-size:cover;
