@@ -26,6 +26,7 @@ button {
     height: 3.3rem;
     border-radius: 50%;
     box-shadow: 2px 2px 2px rgba(66, 66, 66, 0.151);
+    border: 10px;
 }
 button:hover{
     border:2px solid rgba(255, 255, 255, 0.651);
@@ -70,7 +71,7 @@ div{
     width: 311px;
     position: absolute;
     transform: translate(-50%, 10%);
-    left: 42%;
+    left: 50%;
     border-radius: 45px;
 }
 iframe{
