@@ -34,7 +34,6 @@ button:hover{
 }
 nav {
     position: relative;
-    margin-left: 10px;
 }
 #github {
     background: #fff url(pacote-d013/imagens/logo-github.jpg) center center no-repeat fixed;
