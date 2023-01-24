@@ -6,10 +6,6 @@
 :root {
     font-size: 16px;
 }
-::-webkit-scrollbar{
-    height: 0px;
-    width: 0px;
-}
 body{
     background: #000 url(pacote-d013/imagens/fundo-madeira.jpg) bottom center no-repeat fixed;
     background-size:cover;
@@ -74,7 +70,7 @@ div{
     width: 311px;
     position: absolute;
     transform: translate(-50%, 10%);
-    left: 50%;
+    left: 47%;
     border-radius: 45px;
 }
 iframe{
